@@ -1,0 +1,11 @@
+* {
+    font-family: monospace;
+    box-sizing: border-box;
+  }
+p {
+    font-size: 32px;
+    font-weight: 100px;
+    background-color: green;
+    color: red;
+  }
+  
